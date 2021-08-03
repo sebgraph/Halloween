@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Halloween/static/css/main.08d6a86e.chunk.css",
-    "main.js": "/Halloween/static/js/main.634fb923.chunk.js",
-    "main.js.map": "/Halloween/static/js/main.634fb923.chunk.js.map",
-    "runtime-main.js": "/Halloween/static/js/runtime-main.357fda25.js",
-    "runtime-main.js.map": "/Halloween/static/js/runtime-main.357fda25.js.map",
-    "static/css/2.fb17aa6d.chunk.css": "/Halloween/static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.e0002dd9.chunk.js": "/Halloween/static/js/2.e0002dd9.chunk.js",
-    "static/js/2.e0002dd9.chunk.js.map": "/Halloween/static/js/2.e0002dd9.chunk.js.map",
-    "index.html": "/Halloween/index.html",
-    "static/css/2.fb17aa6d.chunk.css.map": "/Halloween/static/css/2.fb17aa6d.chunk.css.map",
-    "static/css/main.08d6a86e.chunk.css.map": "/Halloween/static/css/main.08d6a86e.chunk.css.map",
-    "static/js/2.e0002dd9.chunk.js.LICENSE.txt": "/Halloween/static/js/2.e0002dd9.chunk.js.LICENSE.txt",
-    "static/media/active.3b3035ca.svg": "/Halloween/static/media/active.3b3035ca.svg",
-    "static/media/video.0b987fdc.mp4": "/Halloween/static/media/video.0b987fdc.mp4"
+    "main.css": "/halloween/static/css/main.08d6a86e.chunk.css",
+    "main.js": "/halloween/static/js/main.74a7ee20.chunk.js",
+    "main.js.map": "/halloween/static/js/main.74a7ee20.chunk.js.map",
+    "runtime-main.js": "/halloween/static/js/runtime-main.edcbee82.js",
+    "runtime-main.js.map": "/halloween/static/js/runtime-main.edcbee82.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/halloween/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.c845bce6.chunk.js": "/halloween/static/js/2.c845bce6.chunk.js",
+    "static/js/2.c845bce6.chunk.js.map": "/halloween/static/js/2.c845bce6.chunk.js.map",
+    "index.html": "/halloween/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/halloween/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.08d6a86e.chunk.css.map": "/halloween/static/css/main.08d6a86e.chunk.css.map",
+    "static/js/2.c845bce6.chunk.js.LICENSE.txt": "/halloween/static/js/2.c845bce6.chunk.js.LICENSE.txt",
+    "static/media/active.3b3035ca.svg": "/halloween/static/media/active.3b3035ca.svg",
+    "static/media/video.0b987fdc.mp4": "/halloween/static/media/video.0b987fdc.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.357fda25.js",
+    "static/js/runtime-main.edcbee82.js",
     "static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.e0002dd9.chunk.js",
+    "static/js/2.c845bce6.chunk.js",
     "static/css/main.08d6a86e.chunk.css",
-    "static/js/main.634fb923.chunk.js"
+    "static/js/main.74a7ee20.chunk.js"
   ]
 }
